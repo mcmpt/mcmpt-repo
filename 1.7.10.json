@@ -1,4 +1,4 @@
 {
   "randomMod1" : "http://domain/modFile.json",
-  "randomMod2" : "http://blah/blah.json"
+  "fakeMod1" : "https://raw.githubusercontent.com/mcmpt/mcmpt-test/master/fakeMod1.json"
 }
